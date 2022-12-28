@@ -38,8 +38,7 @@ and [Wayne Wu](https://wywu.github.io/),
 
 - [28/12/2022]
     - The codebase and project page are created.
-    - The download and processing tools for the dataset is released. Use them to construct your CelebV-Text! :
-      sparkles:
+    - The download and processing tools for the dataset is released. Use them to construct your CelebV-Text!
 
 ## TODO
 
