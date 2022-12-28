@@ -49,7 +49,9 @@ and [Wayne Wu](https://wywu.github.io/),
 
 ## Statistics
 
-https://user-images.githubusercontent.com/10545746/179714392-4289e67c-884f-4a45-aa1d-b01b2ae6ee3f.mp4
+
+https://user-images.githubusercontent.com/121470971/209757073-77fd707b-e8cc-49ea-8d1d-836bc43d078f.mp4
+
 
 The distributions of each attribute. CelebV-Text contains <b>70,000 video clips</b> with a total duration of around <b>
 279 hours</b>.
