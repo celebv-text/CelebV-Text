@@ -133,15 +133,11 @@ To train the baselines, we used their original implementations in our paper:
 - [MMVID](https://github.com/snap-research/MMVID)
 - [TFGAN](https://github.com/minrq/CGAN_Text2Video)
 
+## Related Works
+* (ECCV 2022) **CelebV-HQ: A Large-Scale Video Facial Attributes Dataset**, Hao Zhu et al. [[Paper](https://arxiv.org/abs/2207.12393)], [[Project Page](https://celebvhq.github.io/)], [[Dataset](https://github.com/celebv-hq/CelebV-HQ)]
+* (ECCV 2022) **StyleGAN-Human: A Data-Centric Odyssey of Human Generation**, Jianglin Fu et al. [[Paper](https://arxiv.org/pdf/2204.11823.pdf)], [[Project Page](https://stylegan-human.github.io/)], [[Dataset](https://github.com/stylegan-human/StyleGAN-Human)]
 
-[//]: # (## Related Works)
 
-[//]: # ()
-[//]: # (* &#40;ECCV 2022&#41; **StyleGAN-Human: A Data-Centric Odyssey of Human Generation**, Jianglin Fu et)
-
-[//]: # (  al. [[Paper]&#40;https://arxiv.org/pdf/2204.11823.pdf&#41;], [[Project Page]&#40;https://stylegan-human.github.io/&#41;])
-
-[//]: # (  , [[Dataset]&#40;https://github.com/stylegan-human/StyleGAN-Human&#41;])
 
 ## Citation
 
@@ -164,9 +160,4 @@ If you find this work useful for your research, please consider citing our paper
 [//]: # (```)
 
 ## Acknowledgement
-
-[//]: # (This work is partly supported by Shanghai AI Laboratory and SenseTime Research. It is also supported by NTU NAP, MOE AcRF Tier 1 &#40;)
-
-[//]: # (2021-T1-001-088&#41;, and under the RIE2020 Industry Alignment Fund – Industry Collaboration Projects &#40;IAF-ICP&#41; Funding)
-
-[//]: # (Initiative, as well as cash and in-kind contribution from the industry partner&#40;s&#41;.)
+This work is supported by NTU NAP, MOE AcRF Tier 1 (2021-T1-001-088), and under the RIE2020 Industry Alignment Fund – Industry Collaboration Projects (IAF-ICP) Funding Initiative, as well as cash and in-kind contribution from the industry partner(s).
