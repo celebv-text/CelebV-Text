@@ -142,22 +142,14 @@ To train the baselines, we used their original implementations in our paper:
 ## Citation
 
 If you find this work useful for your research, please consider citing our paper:
-
-[//]: # (```bibtex)
-
-[//]: # (@inproceedings{zhu2022celebvhq,)
-
-[//]: # (  title={{CelebV-HQ}: A Large-Scale Video Facial Attributes Dataset},)
-
-[//]: # (  author={Zhu, Hao and Wu, Wayne and Zhu, Wentao and Jiang, Liming and Tang, Siwei and Zhang, Li and Liu, Ziwei and Loy, Chen Change},)
-
-[//]: # (  booktitle={ECCV},)
-
-[//]: # (  year={2022})
-
-[//]: # (})
-
-[//]: # (```)
+```bibtex
+@inproceedings{yu2022celebvtext,
+  title={{CelebV-Text}: A Large-Scale Facial Text-Video Dataset},
+  author={Yu, Jianhui and Zhu, Hao and Jiang, Liming and Loy, Chen Change and Cai, Weidong and Wu, Wayne},
+  booktitle={arxiv},
+  year={2022}
+}
+```
 
 ## Acknowledgement
 This work is supported by NTU NAP, MOE AcRF Tier 1 (2021-T1-001-088), and under the RIE2020 Industry Alignment Fund – Industry Collaboration Projects (IAF-ICP) Funding Initiative, as well as cash and in-kind contribution from the industry partner(s).
