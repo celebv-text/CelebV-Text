@@ -9,7 +9,7 @@
 [Liming Jiang](https://liming-jiang.com/),
 [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/),
 [Weidong Cai](https://weidong-tom-cai.github.io/),
-and [Wayne Wu](https://wywu.github.io/),
+and [Wayne Wu](https://wywu.github.io/)
 <br>
 (*Equal contribution)</small><br>
 **[Demo Video]()** | **[Project Page](https://celebv-text.github.io/)**
@@ -42,14 +42,14 @@ and [Wayne Wu](https://wywu.github.io/),
 
 ## TODO
 
-- [x] Data download and processing tools.
+- [x] Video download and processing tools.
+- [x] Text descriptions.
 - [ ] Data annotations.
-- [ ] Inference code of unconditional video generation
-- [ ] Pretrained models of unconditional video generation
+- [ ] Codes of MMVid-Interp.
+- [ ] Automatic text generation tool and templates. 
+- [ ] Pretrained models of benchmarks. 
 
 ## Statistics
-
-
 https://user-images.githubusercontent.com/121470971/209757073-77fd707b-e8cc-49ea-8d1d-836bc43d078f.mp4
 
 
@@ -84,13 +84,8 @@ including 40 general appearances, 5 detailed appearances, 6 light conditions, 37
 | light intensity                     |     [Google Drive](https://drive.google.com/file/d/1o5w2KkXjZi2wygM5z-nL6tWtGGFLcHHO/view?usp=sharing)      |
 | light color temperature             |     [Google Drive](https://drive.google.com/file/d/15bcEu6xUtoPZk6kCeYQc01JbKnlt8BFR/view?usp=sharing)      |
 
-[//]: # (### TL;DR:)
 
-[//]: # ()
-[//]: # (This **[issue]&#40;https://github.com/CelebV-HQ/CelebV-HQ/issues/8&#41;** is helpful.)
-
-### Usage:
-
+### Video
 Prepare the environment:
 
 ```bash
@@ -105,7 +100,7 @@ Run script:
 python download_and_process.py
 ``` 
 
-### JSON File Structure:
+#### JSON File Structure:
 
 ```javascript
 {
@@ -143,39 +138,21 @@ To train the baselines, we used their original implementations in our paper:
 - [TFGAN](https://github.com/minrq/CGAN_Text2Video)
 
 
-[//]: # (## Related Works)
-
-[//]: # ()
-[//]: # (* &#40;ECCV 2022&#41; **StyleGAN-Human: A Data-Centric Odyssey of Human Generation**, Jianglin Fu et)
-
-[//]: # (  al. [[Paper]&#40;https://arxiv.org/pdf/2204.11823.pdf&#41;], [[Project Page]&#40;https://stylegan-human.github.io/&#41;])
-
-[//]: # (  , [[Dataset]&#40;https://github.com/stylegan-human/StyleGAN-Human&#41;])
+## Related Works
+* (ECCV 2022) **CelebV-HQ: A Large-Scale Video Facial Attributes Dataset**, Hao Zhu et al. [[Paper](https://arxiv.org/abs/2207.12393)], [[Project Page](https://celebvhq.github.io/)], [[Dataset](https://github.com/celebv-hq/CelebV-HQ)]
+* (ECCV 2022) **StyleGAN-Human: A Data-Centric Odyssey of Human Generation**, Jianglin Fu et al. [[Paper](https://arxiv.org/pdf/2204.11823.pdf)], [[Project Page](https://stylegan-human.github.io/)], [[Dataset](https://github.com/stylegan-human/StyleGAN-Human)]
 
 ## Citation
-
 If you find this work useful for your research, please consider citing our paper:
 
-[//]: # (```bibtex)
-
-[//]: # (@inproceedings{zhu2022celebvhq,)
-
-[//]: # (  title={{CelebV-HQ}: A Large-Scale Video Facial Attributes Dataset},)
-
-[//]: # (  author={Zhu, Hao and Wu, Wayne and Zhu, Wentao and Jiang, Liming and Tang, Siwei and Zhang, Li and Liu, Ziwei and Loy, Chen Change},)
-
-[//]: # (  booktitle={ECCV},)
-
-[//]: # (  year={2022})
-
-[//]: # (})
-
-[//]: # (```)
+```bibtex
+@inproceedings{yu2022celebvtext,
+  title={{CelebV-Text}: A Large-Scale Facial Text-Video Dataset},
+  author={Yu, Jianhui and Zhu, Hao and Jiang, Liming and Loy, Chen Change and Cai, Weidong and Wu, Wayne},
+  booktitle={arxiv},
+  year={2022}
+}
+```
 
 ## Acknowledgement
-
-[//]: # (This work is partly supported by Shanghai AI Laboratory and SenseTime Research. It is also supported by NTU NAP, MOE AcRF Tier 1 &#40;)
-
-[//]: # (2021-T1-001-088&#41;, and under the RIE2020 Industry Alignment Fund – Industry Collaboration Projects &#40;IAF-ICP&#41; Funding)
-
-[//]: # (Initiative, as well as cash and in-kind contribution from the industry partner&#40;s&#41;.)
+This work is supported by NTU NAP, MOE AcRF Tier 1 (2021-T1-001-088), and under the RIE2020 Industry Alignment Fund – Industry Collaboration Projects (IAF-ICP) Funding Initiative, as well as cash and in-kind contribution from the industry partner(s).
