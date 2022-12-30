@@ -138,7 +138,7 @@ To train the baselines, we used their original implementations in our paper:
 - [TFGAN](https://github.com/minrq/CGAN_Text2Video)
 
 
-## Related Works
+## Related Work
 * (ECCV 2022) **CelebV-HQ: A Large-Scale Video Facial Attributes Dataset**, Hao Zhu et al. [[Paper](https://arxiv.org/abs/2207.12393)], [[Project Page](https://celebvhq.github.io/)], [[Dataset](https://github.com/celebv-hq/CelebV-HQ)]
 * (ECCV 2022) **StyleGAN-Human: A Data-Centric Odyssey of Human Generation**, Jianglin Fu et al. [[Paper](https://arxiv.org/pdf/2204.11823.pdf)], [[Project Page](https://stylegan-human.github.io/)], [[Dataset](https://github.com/stylegan-human/StyleGAN-Human)]
 
