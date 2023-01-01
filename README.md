@@ -36,9 +36,9 @@ and [Wayne Wu](https://wywu.github.io/)
 
 ## Updates
 - [01/01/2023]
-    - Code of MMVID-interp is now released [here](https://github.com/celebv-text/MMVID)
-    - Pretrained models of benchmarks are released
-    - data annotation file is now released [here](https://drive.google.com/file/d/1JyopDiLcdSZ0tDw2QIvOvwLTaN6rOhEF/view?usp=sharing)
+    - Code of MMVID-interp is now released [here](https://github.com/celebv-text/MMVID).
+    - Pretrained models of benchmarks are released.
+    - data annotation file is now released [here](https://drive.google.com/file/d/1JyopDiLcdSZ0tDw2QIvOvwLTaN6rOhEF/view?usp=sharing).
 - [28/12/2022]
     - The codebase and project page are created.
     - The download and processing tools for the dataset is released. Use them to construct your CelebV-Text!
