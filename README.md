@@ -36,7 +36,8 @@ and [Wayne Wu](https://wywu.github.io/)
 
 ## Updates
 - [01/01/2023]
-  Code of MMVID-interp is now released [here](https://github.com/celebv-text/MMVID)
+    - Code of MMVID-interp is now released [here](https://github.com/celebv-text/MMVID)
+    - Pretrained models of benchmarks are released
 - [28/12/2022]
     - The codebase and project page are created.
     - The download and processing tools for the dataset is released. Use them to construct your CelebV-Text!
@@ -48,7 +49,7 @@ and [Wayne Wu](https://wywu.github.io/)
 - [ ] Data annotations.
 - [x] Code of MMVID-interp.
 - [ ] Automatic text generation tool and templates. 
-- [ ] Pretrained models of benchmarks.
+- [x] Pretrained models of benchmarks.
 
 ## Statistics
 https://user-images.githubusercontent.com/121470971/209757073-77fd707b-e8cc-49ea-8d1d-836bc43d078f.mp4
@@ -76,14 +77,25 @@ including 40 general appearances, 5 detailed appearances, 6 light conditions, 37
 ## Download
 
 ### Text Descriptions
-| Description                         |                                                    Link                                                     |
-|:------------------------------------|:-----------------------------------------------------------------------------------------------------------:| 
-| general & detailed face attributes  |     [Google Drive](https://drive.google.com/file/d/1WBLf0t9EOsuPWmsU4qnFuv_w2dobd-xT/view?usp=sharing)      |
-| emotion                             |     [Google Drive](https://drive.google.com/file/d/18V-72aa36r3ZTmu2NHZIMM8aW-0PdKC-/view?usp=sharing)      |
-| action                              |     [Google Drive](https://drive.google.com/file/d/1N6Xf2GGstyj--taKnRi5gBd-pXAQX3cI/view?usp=sharing)      | 
-| light direction                     |     [Google Drive](https://drive.google.com/file/d/1RwBEBse8Y5aseE7jC4Gu2R177YnpAB8g/view?usp=sharing)      |
-| light intensity                     |     [Google Drive](https://drive.google.com/file/d/1o5w2KkXjZi2wygM5z-nL6tWtGGFLcHHO/view?usp=sharing)      |
-| light color temperature             |     [Google Drive](https://drive.google.com/file/d/15bcEu6xUtoPZk6kCeYQc01JbKnlt8BFR/view?usp=sharing)      |
+| Description                         |                                                    Link                                                    |
+|:------------------------------------|:----------------------------------------------------------------------------------------------------------:| 
+| general & detailed face attributes  |     [Google Drive](https://drive.google.com/file/d/1WBLf0t9EOsuPWmsU4qnFuv_w2dobd-xT/view?usp=sharing)     |
+| emotion                             |     [Google Drive](https://drive.google.com/file/d/18V-72aa36r3ZTmu2NHZIMM8aW-0PdKC-/view?usp=sharing)     |
+| action                              |     [Google Drive](https://drive.google.com/file/d/1N6Xf2GGstyj--taKnRi5gBd-pXAQX3cI/view?usp=sharing)     | 
+| light direction                     |     [Google Drive](https://drive.google.com/file/d/1RwBEBse8Y5aseE7jC4Gu2R177YnpAB8g/view?usp=sharing)     |
+| light intensity                     |     [Google Drive](https://drive.google.com/file/d/1o5w2KkXjZi2wygM5z-nL6tWtGGFLcHHO/view?usp=sharing)     |
+| light color temperature             |     [Google Drive](https://drive.google.com/file/d/15bcEu6xUtoPZk6kCeYQc01JbKnlt8BFR/view?usp=sharing)     |
+
+
+### Models
+|                                                              |                                                    Link                                                     |
+|--------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------:| 
+| general & detailed face attributes                           |     [Google Drive](https://drive.google.com/file/d/15l0D461-4K2xsdgQNiwjJTxP4xKqZZdV/view?usp=sharing)      |
+| emotion                                                      |     [Google Drive](https://drive.google.com/file/d/1cM9xIXSKKjOs5Rhe3e4BCcE4JJAtEy4k/view?usp=sharing)      |
+| action                                                       |     [Google Drive](https://drive.google.com/file/d/1aagS0x1kyoAaGIScNkIq0-jy7ArOWpnl/view?usp=sharing)      | 
+| light direction                                              |     [Google Drive](https://drive.google.com/file/d/1SMsWOKr7RgkdT6qP8MXnDfZauXmXEycq/view?usp=sharing)      |
+| light intensity &  color temperature                         |     [Google Drive](https://drive.google.com/file/d/1SMsWOKr7RgkdT6qP8MXnDfZauXmXEycq/view?usp=sharing)      |
+| general face attributes + emotion + action + light direction |     [Google Drive](https://drive.google.com/file/d/1NQtLG9Pnx1DJrgHITU2tAmzOeBVO8OMj/view?usp=sharing)      |
 
 
 ### Video
