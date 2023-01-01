@@ -35,7 +35,8 @@ and [Wayne Wu](https://wywu.github.io/)
 > evaluation of the facial text-to-video generation task.
 
 ## Updates
-
+- [01/01/2023]
+  Code of MMVID-interp is now released [here](https://github.com/celebv-text/MMVID)
 - [28/12/2022]
     - The codebase and project page are created.
     - The download and processing tools for the dataset is released. Use them to construct your CelebV-Text!
@@ -45,9 +46,9 @@ and [Wayne Wu](https://wywu.github.io/)
 - [x] Video download and processing tools.
 - [x] Text descriptions.
 - [ ] Data annotations.
-- [ ] Codes of MMVid-Interp.
+- [x] Code of MMVID-interp.
 - [ ] Automatic text generation tool and templates. 
-- [ ] Pretrained models of benchmarks. 
+- [ ] Pretrained models of benchmarks.
 
 ## Statistics
 https://user-images.githubusercontent.com/121470971/209757073-77fd707b-e8cc-49ea-8d1d-836bc43d078f.mp4
