@@ -129,7 +129,7 @@ Run script:
 python download_and_process.py
 ``` 
 
-#### JSON File Structure:
+##### JSON File Structure:
 
 ```javascript
 {
@@ -181,7 +181,7 @@ To train the baselines, we used their original implementations in our paper:
 
 
 <a name="related"></a>
-## More Work May Interest You
+## More Works May Interest You
 There are lots of wonderful related works that might be of interest to you.
 
 * Face Generation:
