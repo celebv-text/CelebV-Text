@@ -51,7 +51,7 @@ and [Wayne Wu](https://wywu.github.io/)
    * [Agreement](#Agreement)
    * [Dataset Download](#download)
       * [Text Descriptions](#text)
-      * [Video download pipeline](#videos)
+      * [Video Download Pipeline](#videos)
    * [Benchmark](#benchmark)
       * [Baselines](#baselines)
       * [Pretrained Models](#models)
@@ -114,7 +114,7 @@ including 40 general appearances, 5 detailed appearances, 6 light conditions, 37
 
 
 <a name="videos"></a>
-### (2) Video download pipeline
+### (2) Video Download Pipeline
 Prepare the environment:
 
 ```bash
