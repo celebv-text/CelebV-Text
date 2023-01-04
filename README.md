@@ -187,9 +187,10 @@ There are several our previous publications that might be of interest to you.
    * (CVPR 2022) TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing. Xu et al. [[Paper](https://arxiv.org/abs/2203.17266)], [[Project Page](https://billyxyb.github.io/TransEditor/)], [[Code](https://github.com/BillyXYB/TransEditor)]
 
 * Human Generation:
-   * (SIGGRAPH 2022) Text2Human: Text-Driven Controllable Human Image Generation. Jiang et al. [[Paper](https://arxiv.org/abs/2205.15996)], [[Project Page](https://yumingj.github.io/projects/Text2Human.html)], [[Code](https://github.com/yumingj/Text2Human)]
-   * (ECCV 2022) StyleGAN-Human: A Data-Centric Odyssey of Human. Fu et al.  [[Paper](https://arxiv.org/abs/2204.11823)], [[Project Page](https://stylegan-human.github.io/)], [[Dataset](https://github.com/stylegan-human/StyleGAN-Human)]
    * (Arxiv 2022) 3DHumanGAN: Towards Photo-realistic 3D-Aware Human Image Generation Yang et al. [[Paper](https://arxiv.org/abs/2212.07378)], [[Project Page](https://3dhumangan.github.io/)], [[Code](https://github.com/3dhumangan/3DHumanGAN)]
+   * (ECCV 2022) StyleGAN-Human: A Data-Centric Odyssey of Human. Fu et al.  [[Paper](https://arxiv.org/abs/2204.11823)], [[Project Page](https://stylegan-human.github.io/)], [[Dataset](https://github.com/stylegan-human/StyleGAN-Human)]
+   * (SIGGRAPH 2022) Text2Human: Text-Driven Controllable Human Image Generation. Jiang et al. [[Paper](https://arxiv.org/abs/2205.15996)], [[Project Page](https://yumingj.github.io/projects/Text2Human.html)], [[Code](https://github.com/yumingj/Text2Human)]
+
 
 <a name="citation"></a>
 ## Citation
