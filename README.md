@@ -179,8 +179,8 @@ To train the baselines, we used their original implementations in our paper:
 
 
 <a name="related"></a>
-## More Works May Interest You
-There are lots of wonderful related works that might be of interest to you.
+## More Work May Interest You
+There are several our previous publications that might be of interest to you.
 
 * Face Generation:
    * (ECCV 2022) CelebV-HQ: A Large-scale Video Facial Attributes Dataset. Zhu et al. [[Paper](https://arxiv.org/abs/2207.12393)], [[Project Page](https://celebv-hq.github.io)], [[Dataset](https://github.com/celebv-hq/CelebV-HQ)]
