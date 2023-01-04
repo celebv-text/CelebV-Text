@@ -46,7 +46,7 @@ and [Wayne Wu](https://wywu.github.io/)
 ## Table of contents
 
 <!--ts-->
-   * [Statistics](#stat)
+   * [Dataset Statistics](#stat)
    * [Agreement](#Agreement)
    * [Dataset Download](#download)
       * [Text Descriptions](#text)
@@ -70,7 +70,7 @@ and [Wayne Wu](https://wywu.github.io/)
 
 
 <a name="stat"></a>
-## Statistics
+## Dataset Statistics
 https://user-images.githubusercontent.com/121470971/209757073-77fd707b-e8cc-49ea-8d1d-836bc43d078f.mp4
 
 
@@ -116,16 +116,13 @@ including 40 general appearances, 5 detailed appearances, 6 light conditions, 37
 
 <a name="videos"></a>
 ### (2) Video Download Pipeline
-Prepare the environment:
+Prepare the environment & Run script:
 
 ```bash
+# prepare the environment
 pip install youtube_dl
 pip install opencv-python
-```
 
-Run script:
-
-```bash
 # you can change the download folder in the code 
 python download_and_process.py
 ``` 
