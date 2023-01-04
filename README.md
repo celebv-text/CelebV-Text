@@ -14,7 +14,6 @@ and [Wayne Wu](https://wywu.github.io/)
 (*Equal contribution)</small><br>
 **[Demo Video](https://www.youtube.com/watch?v=heLWTDPIAa4)** | **[Project Page](https://celebv-text.github.io/)**
 | **[Paper](#)**
-| **[Annotations](https://github.com/celebv-text/CelebV-Text/blob/main/celebvtext_info.json)**
 
 > Currently, text-driven generation models are booming in video editing with their compelling
 > results.
@@ -102,7 +101,7 @@ including 40 general appearances, 5 detailed appearances, 6 light conditions, 37
 
 
 <a name="text"></a>
-### (1) Text Descriptions
+### (1) Text Descriptions & Metadata Annotation
 | Description                         |                                                    Link                                                    |
 |:------------------------------------|:----------------------------------------------------------------------------------------------------------:| 
 | general & detailed face attributes  |     [Google Drive](https://drive.google.com/file/d/1WBLf0t9EOsuPWmsU4qnFuv_w2dobd-xT/view?usp=sharing)     |
@@ -111,6 +110,8 @@ including 40 general appearances, 5 detailed appearances, 6 light conditions, 37
 | light direction                     |     [Google Drive](https://drive.google.com/file/d/1RwBEBse8Y5aseE7jC4Gu2R177YnpAB8g/view?usp=sharing)     |
 | light intensity                     |     [Google Drive](https://drive.google.com/file/d/1o5w2KkXjZi2wygM5z-nL6tWtGGFLcHHO/view?usp=sharing)     |
 | light color temperature             |     [Google Drive](https://drive.google.com/file/d/15bcEu6xUtoPZk6kCeYQc01JbKnlt8BFR/view?usp=sharing)     |
+| *metadata annotation                |     [Google Drive](https://drive.google.com/file/d/1JyopDiLcdSZ0tDw2QIvOvwLTaN6rOhEF/view?usp=sharing)     |
+
 
 
 <a name="videos"></a>
