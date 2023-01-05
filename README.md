@@ -207,4 +207,4 @@ If you find this work useful for your research, please consider citing our paper
 
 <a name="acknowledgement"></a>
 ## Acknowledgement
-This work is supported by NTU NAP, MOE AcRF Tier 1 (2021-T1-001-088), and under the RIE2020 Industry Alignment Fund – Industry Collaboration Projects (IAF-ICP) Funding Initiative, as well as cash and in-kind contribution from the industry partner(s).
+This work is supported by NTU NAP, MOE AcRF Tier 1 (2021-T1-001-088).
