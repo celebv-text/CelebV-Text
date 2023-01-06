@@ -12,7 +12,7 @@
 and [Wayne Wu](https://wywu.github.io/)
 <br>
 (*Equal contribution)</small><br>
-**[Demo Video](https://www.youtube.com/watch?v=heLWTDPIAa4)** | **[Project Page](https://celebv-text.github.io/)**
+**[Demo Video](https://www.youtube.com/watch?v=SGXlkOcYKhs)** | **[Project Page](https://celebv-text.github.io/)**
 | **[Paper (coming soon)](#)**
 
 > Currently, text-driven generation models are booming in video editing with their compelling
