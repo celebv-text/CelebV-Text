@@ -167,7 +167,7 @@ To train the baselines, we used their original implementations in our paper:
 
 <a name="models"></a>
 ### (2) Pretrained Models
-|MMVID                                                         |                                                    Link                                                     |
+|Text Descriptions (MMVID)                                     |                                                    Link                                                     |
 |--------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------:| 
 | general & detailed face attributes                           |     [Google Drive](https://drive.google.com/file/d/15l0D461-4K2xsdgQNiwjJTxP4xKqZZdV/view?usp=sharing)      |
 | emotion                                                      |     [Google Drive](https://drive.google.com/file/d/1cM9xIXSKKjOs5Rhe3e4BCcE4JJAtEy4k/view?usp=sharing)      |
