@@ -167,13 +167,14 @@ To train the baselines, we used their original implementations in our paper:
 
 <a name="models"></a>
 ### (2) Pretrained Models
-|Text Descriptions (MMVID)                                     |                                                    Link                                                     |
-|--------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------:| 
-| general & detailed face attributes                           |     [Google Drive](https://drive.google.com/file/d/15l0D461-4K2xsdgQNiwjJTxP4xKqZZdV/view?usp=sharing)      |
-| emotion                                                      |     [Google Drive](https://drive.google.com/file/d/1cM9xIXSKKjOs5Rhe3e4BCcE4JJAtEy4k/view?usp=sharing)      |
-| action                                                       |     [Google Drive](https://drive.google.com/file/d/1aagS0x1kyoAaGIScNkIq0-jy7ArOWpnl/view?usp=sharing)      | 
-| light direction                                              |     [Google Drive](https://drive.google.com/file/d/1SMsWOKr7RgkdT6qP8MXnDfZauXmXEycq/view?usp=sharing)      |
-| light intensity &  color temperature                         |     [Google Drive](https://drive.google.com/file/d/1SMsWOKr7RgkdT6qP8MXnDfZauXmXEycq/view?usp=sharing)      |
+| Text Descriptions (MMVID)                                   |                                                    Link                                                     |
+|-------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------:|
+| VQGAN                                                       |     [Google Drive](https://drive.google.com/file/d/1-b17t6RxUb10weV_xquDANxFyr3DE0k9/view?usp=sharing)      |
+| general & detailed face attributes                          |     [Google Drive](https://drive.google.com/file/d/15l0D461-4K2xsdgQNiwjJTxP4xKqZZdV/view?usp=sharing)      |
+| emotion                                                     |     [Google Drive](https://drive.google.com/file/d/1cM9xIXSKKjOs5Rhe3e4BCcE4JJAtEy4k/view?usp=sharing)      |
+| action                                                      |     [Google Drive](https://drive.google.com/file/d/1aagS0x1kyoAaGIScNkIq0-jy7ArOWpnl/view?usp=sharing)      | 
+| light direction                                             |     [Google Drive](https://drive.google.com/file/d/1SMsWOKr7RgkdT6qP8MXnDfZauXmXEycq/view?usp=sharing)      |
+| light intensity &  color temperature                        |     [Google Drive](https://drive.google.com/file/d/1SMsWOKr7RgkdT6qP8MXnDfZauXmXEycq/view?usp=sharing)      |
 | general face attributes + emotion + action + light direction |     [Google Drive](https://drive.google.com/file/d/1NQtLG9Pnx1DJrgHITU2tAmzOeBVO8OMj/view?usp=sharing)      |
 
 
