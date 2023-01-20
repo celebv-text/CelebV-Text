@@ -34,6 +34,30 @@ def download(video_path, ytb_id, proxy=None):
             print(f"video not found: {ytb_id}")
 
 
+def expand(bbox, ratio, vid_w, vid_h):
+    top, bottom, left, right = bbox
+    exp_h = vid_h * ratio
+    exp_w = vid_w * ratio
+    top = max(top - exp_h, 0)
+    bottom = min(bottom + exp_h, vid_h)
+    left = max(left - exp_w, 0)
+    right = min(right + exp_w, vid_w)
+    return top, bottom, left, right
+
+
+def to_square(bbox):
+    top, bottom, left, right = bbox
+    h = bottom - top
+    w = right - left
+    c = min(h, w) // 2
+    c_h = (top + bottom) / 2
+    c_w = (left + right) / 2
+
+    top, bottom = c_h - c, c_h + c
+    left, right = c_w - c, c_w + c
+    return top, bottom, left, right
+
+
 def process_ffmpeg(raw_vid_path, save_folder, save_vid_name, bbox, time):
     """
     raw_vid_path:
@@ -51,10 +75,14 @@ def process_ffmpeg(raw_vid_path, save_folder, save_vid_name, bbox, time):
         return "{:02d}:{:02d}:{:02d}.{:02d}".format(int(hrs), int(min), int(sec), int(end))
 
     out_path = os.path.join(save_folder, save_vid_name)
-    top, bottom, left, right = bbox
+    cap = cv2.VideoCapture(raw_vid_path)
+    width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
+    height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+
+    top, bottom, left, right = to_square(expand(bbox, 0.02, width, height))
     start_sec, end_sec = time
 
-    cmd = f"ffmpeg -i {raw_vid_path} -vf crop=w={right - left}:h={bottom - top}:x={left}:y={top} -ss {secs_to_timestr(start_sec)} -to {secs_to_timestr(end_sec)} -loglevel error {out_path}"
+    cmd = f"ffmpeg -i {raw_vid_path} -vf crop={right - left}:{bottom - top}:{left}:{top} -ss {secs_to_timestr(start_sec)} -to {secs_to_timestr(end_sec)} -loglevel error {out_path}"
     os.system(cmd)
     return out_path
 
@@ -72,7 +100,7 @@ def load_data(file_path):
 
 
 if __name__ == '__main__':
-    json_path = 'celebvtext_info.json'  # json file path
+    json_path = 'test.json'  # json file path
     raw_vid_root = './downloaded_celebvtext/raw/'  # download raw video path
     processed_vid_root = './downloaded_celebvtext/processed/'  # processed video path
     proxy = None  # proxy url example, set to None if not use
