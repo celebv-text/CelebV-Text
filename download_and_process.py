@@ -90,7 +90,7 @@ def load_data(file_path):
     with open(file_path) as f:
         data_dict = json.load(f)
 
-    for key, val in data_dict['clips'].items():
+    for key, val in data_dict['clips_set1'].items():
         save_name = key + ".mp4"
         ytb_id = val['ytb_id']
         time = val['duration']['start_sec'], val['duration']['end_sec']
