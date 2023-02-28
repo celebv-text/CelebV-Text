@@ -1,4 +1,4 @@
-# CelebV-Text: A Large-Scale Facial Text-Video Dataset
+# CelebV-Text: A Large-Scale Facial Text-Video Dataset (CVPR 2023)
 
 <img src="./assets/teaser.png" width="96%" height="96%">
 
