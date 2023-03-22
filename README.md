@@ -71,7 +71,8 @@ and [Wayne Wu](https://wywu.github.io/)
 
 <a name="stat"></a>
 ## Dataset Statistics
-https://user-images.githubusercontent.com/121470971/209757073-77fd707b-e8cc-49ea-8d1d-836bc43d078f.mp4
+<!-- https://user-images.githubusercontent.com/121470971/209757073-77fd707b-e8cc-49ea-8d1d-836bc43d078f.mp4 -->
+https://user-images.githubusercontent.com/10545746/226871980-26f5e074-4530-48cd-87fe-b99e34fa115c.mp4
 
 
 The distributions of each attribute. CelebV-Text contains <b>70,000 video clips</b> with a total duration of around <b>
@@ -82,6 +83,13 @@ including 40 general appearances, 5 detailed appearances, 6 light conditions, 37
 <img src="./assets/video_stats.png" width="60%" height="60%" alt="video stats">
 <img src="./assets/text_stats.png" width="60%" height="60%" alt="text stats">
 <img src="./assets/text_video_rel.png" width="70%" height="70%" alt="text-video rel">
+
+
+
+
+## Visual ChatGPT Demo
+https://user-images.githubusercontent.com/10545746/226870355-83c9c875-0e3b-439e-9df7-453d8e408807.mp4
+
 
 <a name="Agreement"></a>
 ## Agreement
