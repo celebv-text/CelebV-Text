@@ -72,7 +72,8 @@ and [Wayne Wu](https://wywu.github.io/)
 <a name="stat"></a>
 ## Dataset Statistics
 <!-- https://user-images.githubusercontent.com/121470971/209757073-77fd707b-e8cc-49ea-8d1d-836bc43d078f.mp4 -->
-https://user-images.githubusercontent.com/10545746/226871980-26f5e074-4530-48cd-87fe-b99e34fa115c.mp4
+https://user-images.githubusercontent.com/10545746/226877623-1474519a-3389-409b-b599-3b8c924f4999.mp4
+
 
 
 The distributions of each attribute. CelebV-Text contains <b>70,000 video clips</b> with a total duration of around <b>
