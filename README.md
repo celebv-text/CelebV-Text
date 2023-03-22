@@ -201,11 +201,11 @@ If you find this work useful for your research, please consider citing our paper
 @inproceedings{yu2022celebvtext,
   title={{CelebV-Text}: A Large-Scale Facial Text-Video Dataset},
   author={Yu, Jianhui and Zhu, Hao and Jiang, Liming and Loy, Chen Change and Cai, Weidong and Wu, Wayne},
-  booktitle={arxiv},
+  booktitle={CVPR},
   year={2023}
 }
 ```
 
 <a name="acknowledgement"></a>
 ## Acknowledgement
-This work is supported by NTU NAP, MOE AcRF Tier 1 (2021-T1-001-088).
+CelebV-Text is affiliated with OpenXDLab -- an open platform for X-Dimension high-quality data. This work is supported by NTU NAP, MOE AcRF Tier 1 (2021-T1-001-088).
