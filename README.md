@@ -90,6 +90,8 @@ including 40 general appearances, 5 detailed appearances, 6 light conditions, 37
 
 
 ## Visual ChatGPT Demo
+This is a toy example of the application of text-to-face model with ChatGPT. In this demo, we use [MMVID](https://github.com/snap-research/MMVID) simply trained on the porposed CelebV-Text dataset, to demonstrate CelebV-Text's potential in enabling visual GPT applications. In the future, more sophisticated methods prospectively lead to better results.
+
 https://user-images.githubusercontent.com/10545746/226870355-83c9c875-0e3b-439e-9df7-453d8e408807.mp4
 
 
