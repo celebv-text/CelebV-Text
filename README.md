@@ -72,7 +72,8 @@ and [Wayne Wu](https://wywu.github.io/)
 <a name="stat"></a>
 ## Dataset Statistics
 <!-- https://user-images.githubusercontent.com/121470971/209757073-77fd707b-e8cc-49ea-8d1d-836bc43d078f.mp4 -->
-https://user-images.githubusercontent.com/10545746/226877623-1474519a-3389-409b-b599-3b8c924f4999.mp4
+<!-- https://user-images.githubusercontent.com/10545746/226877623-1474519a-3389-409b-b599-3b8c924f4999.mp4 -->
+https://user-images.githubusercontent.com/10545746/227458030-fbb48f66-db14-4c89-a001-4d7cdd29b248.mp4
 
 
 
