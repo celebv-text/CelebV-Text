@@ -35,6 +35,8 @@ and [Wayne Wu](https://wywu.github.io/)
 
 
 ## Updates
+- [28/03/2023]
+    - Paper is now released [here](https://arxiv.org/pdf/2303.14717.pdf)!
 - [01/01/2023]
     - Code of MMVID-interp is now released [here](https://github.com/celebv-text/MMVID).
     - Pretrained models of benchmarks are released [here](#models). 
