@@ -3,7 +3,7 @@
 <img src="./assets/teaser.png" width="96%" height="96%">
 
 
-**CelebV-HQ: A Large-Scale Video Facial Attributes Dataset**<br>
+**CelebV-Text: A large-Scale Facial Text-Video Dataset**<br>
 [Jianhui Yu](https://scholar.google.com/citations?user=sdxlMmMAAAAJ&hl=en)\*,
 [Hao Zhu](https://www.zhuhaozh.xyz)\*,
 [Liming Jiang](https://liming-jiang.com/),
