@@ -90,7 +90,7 @@ def load_data(file_path):
     with open(file_path) as f:
         data_dict = json.load(f)
 
-    for key, val in data_dict['clips_set1'].items():
+    for key, val in data_dict.items():
         save_name = key + ".mp4"
         ytb_id = val['ytb_id']
         time = val['duration']['start_sec'], val['duration']['end_sec']
@@ -111,5 +111,8 @@ if __name__ == '__main__':
         raw_vid_path = os.path.join(raw_vid_root, vid_id + ".mp4")
         # Downloading is io bounded and processing is cpu bounded.
         # It is better to download all videos firstly and then process them via multiple cpu cores.
-        download(raw_vid_path, vid_id, proxy)
-        # process_ffmpeg(raw_vid_path, processed_vid_root, save_vid_name, bbox, time)
+        try:
+            download(raw_vid_path, vid_id, proxy)
+            process_ffmpeg(raw_vid_path, processed_vid_root, save_vid_name, bbox, time)
+        except:
+            continue
