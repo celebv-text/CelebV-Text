@@ -35,7 +35,7 @@ and [Wayne Wu](https://wywu.github.io/)
 
 
 ## Updates
-- [20/06/2023]
+- [11/08/2023]
     - Audios (67k) can be downloaded now [issue](https://github.com/celebv-text/CelebV-Text/issues/8)
 - [20/06/2023]
     - Videos can be downloaded now [issue](https://github.com/celebv-text/CelebV-Text/issues/8)
