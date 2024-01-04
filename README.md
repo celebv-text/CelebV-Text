@@ -48,6 +48,8 @@ and [Wayne Wu](https://wywu.github.io/)
 - [28/12/2022]
     - The codebase and project page are created.
     - The download and processing tools for the dataset is released. Use them to construct your CelebV-Text!
+- [04/01/2024]
+    - Confusions about annotation files are expalined [here](https://github.com/celebv-text/CelebV-Text/issues/16).
 
 ## Table of contents
 
